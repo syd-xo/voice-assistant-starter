@@ -11,7 +11,7 @@ It listens to the microphone, processes speech, and responds back with synthesiz
 
 ---
 
-## Setup instructions 1
+## Setup instructions 
 1️⃣ Clone the repository
 
 2️⃣ Create a virtual environment in Anaconda
